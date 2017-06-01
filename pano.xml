@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="15722" appversion="5.1">
+  <panorama id="node1">
+    <input height="2500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2500" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400" levelingpitch="0">
+      <level height="2500" width="2500" preload="0" predecode="0"/>
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" copyright="" comment="" author="" latitude="" customnodeid="" tags="View_01_360_Plaza" source="" title="" description="" info="" datetime=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" background="1" wordwrap="1" width="180" textcolor="0x000000" borderalpha="1" borderradius="1" border="1" textalpha="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomfov="20" enabled="0" zoomin="0" blendtime="1"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" lockedwheel="0" rubberband="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" contextfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2500" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400" levelingpitch="0">
+      <level height="2500" width="2500" preload="0" predecode="0"/>
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" copyright="" comment="" author="" latitude="" customnodeid="" tags="View_01_360_Plaza" source="" title="" description="" info="" datetime=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" background="1" wordwrap="1" width="180" textcolor="0x000000" borderalpha="1" borderradius="1" border="1" textalpha="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomfov="20" enabled="0" zoomin="0" blendtime="1"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" lockedwheel="0" rubberband="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" contextfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+</tour>
